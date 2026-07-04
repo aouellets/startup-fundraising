@@ -9,7 +9,7 @@ Reach for this when you're a founder running a fundraise and want every artifact
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/startup-fundraising](https://skillme.dev/pack/startup-fundraising) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/startup-fundraising`
+- **With the skills CLI:** `npx skills add SkillMedev/startup-fundraising`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
