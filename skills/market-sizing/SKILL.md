@@ -1,6 +1,6 @@
 ---
 name: Market Sizing
-description: Build a credible TAM/SAM/SOM with bottom-up and top-down triangulation.
+description: Builds a defensible TAM/SAM/SOM market-sizing model with bottom-up and top-down triangulation and a low/base/high sensitivity range. Use when someone asks "how big is the market", "calculate my TAM", "size this opportunity", is preparing an investor deck market slide, or needs to defend a market number under diligence. Do NOT use for revenue projections of an existing business — use revenue-modeling instead.
 ---
 
 # Market Sizing
